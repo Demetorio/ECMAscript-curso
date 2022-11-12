@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Vicente Valderrama <valderramavicente914@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
